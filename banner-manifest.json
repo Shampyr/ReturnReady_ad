@@ -2,7 +2,7 @@
   "banners": [
     {
       "id": "IRS_gov",
-      "imageUrl": "https://raw.githubusercontent.com/Shampyr/ReturnReady_ad/refs/heads/main/banners/IRS_newline.png",
+      "imageUrl": "https://raw.githubusercontent.com/Shampyr/ReturnReady_ad/refs/heads/main/IRS_Image_nS.png",
       "targetUrl": "https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin",
       "altText": "Tax identity protection resource",
       "enabled": true,
